@@ -223,16 +223,12 @@ Frontend Expert ─────────────────────�
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/moamen-mohamed-9289533b2/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:eng.moamen25mohamed@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://YOUR_PORTFOLIO.com">
