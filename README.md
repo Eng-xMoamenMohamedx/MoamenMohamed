@@ -11,9 +11,9 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=DD0031&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Eng-xMoamenMohamedx&style=for-the-badge&color=DD0031&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=0078D4&labelColor=1a1a2e&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/Eng-xMoamenMohamedx?style=for-the-badge&color=0078D4&labelColor=1a1a2e&label=FOLLOWERS" />
 
 </div>
 
@@ -184,11 +184,11 @@ Frontend Expert ─────────────────────�
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DD0031&icon_color=DD0031&text_color=ffffff&ring_color=DD0031" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=DD0031&ring=DD0031&fire=ff9800&currStreakLabel=DD0031" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eng-xMoamenMohamedx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DD0031&icon_color=DD0031&text_color=ffffff&ring_color=DD0031" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-xMoamenMohamedx&theme=radical&hide_border=true&background=0D1117&stroke=DD0031&ring=DD0031&fire=ff9800&currStreakLabel=DD0031" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DD0031&text_color=ffffff&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-xMoamenMohamedx&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DD0031&text_color=ffffff&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-xMoamenMohamedx&theme=radical" />
 
 </div>
 
@@ -197,7 +197,7 @@ Frontend Expert ─────────────────────�
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eng-xMoamenMohamedx&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -206,9 +206,9 @@ Frontend Expert ─────────────────────�
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-xMoamenMohamedx/Eng-xMoamenMohamedx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eng-xMoamenMohamedx/Eng-xMoamenMohamedx/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Eng-xMoamenMohamedx/Eng-xMoamenMohamedx/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
