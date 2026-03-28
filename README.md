@@ -217,7 +217,7 @@ Frontend Expert ─────────────────────�
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=DD0031&line=DD0031&point=ffffff&area=true&hide_border=true" />
+  <img width="100%" src="https://ghchart.rshah.org/DD0031/YOUR_USERNAME" />
 </div>
 
 ---
