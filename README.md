@@ -194,26 +194,6 @@ Frontend Expert ─────────────────────�
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eng-xMoamenMohamedx&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-xMoamenMohamedx/Eng-xMoamenMohamedx/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eng-xMoamenMohamedx/Eng-xMoamenMohamedx/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Eng-xMoamenMohamedx/Eng-xMoamenMohamedx/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
